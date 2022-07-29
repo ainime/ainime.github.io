@@ -2,7 +2,7 @@
 layout: post
 title:  Isekai Ojisan [Sub Indo]
 date:   2018-08-23 16:03:30 +0300
-image:  https://isekaiojisan.com/core_sys/images/main/home/kv.webp
+image:  https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHTtXkvuyHNNPV29naBn3IisvOLgC2HuAIdpociXQlHgnGAF-hN0xFLFm8izbkmMPdzpdj0Mi0q8TSpTVa-vf8yOEOJ0PxOHA5bIfQFRE9ZQ8KViKiYZSK5VUPixWTNAxfS0A6wqPk4oHjKu-JCsC843UtiYP261itEhMYqwygn2ZTVhZzAldQCDv7/s1600/41hodv21402pl.jpg
 tags:   [ Comedy, Fantasy ]
 categories: [ Movic, AT-X, Sammy, BS11, Kadokawa Media House, Kadokawa ]
 ---
