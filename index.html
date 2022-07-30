@@ -48,18 +48,10 @@ layout: default
 <div class="article-content">
 <div class="article-info">
 <div class="article-date">
-{% if post.tags.size >= 1 %}
-{% for tag in post.episode %}
-<a href="{{ post.url | prepend: site.baseurl }}" class="tag">{{ tag }}</a>
-{% endfor %}
-{% else %} {% endif %}
+{% for tag in page.episode %}{{ tag }}{% endfor %}
 </div>
 <div class="article-tag">
-{% if post.tags.size >= 1 %}
-{% for tag in post.subtitle %}
-<a href="{{ post.url | prepend: site.baseurl }}" class="tag">{{ tag }}</a>
-{% endfor %}
-{% else %} {% endif %}
+{% for tag in page.subtitle %}{{ tag }}{% endfor %}
 </div>
 								
 </div>
