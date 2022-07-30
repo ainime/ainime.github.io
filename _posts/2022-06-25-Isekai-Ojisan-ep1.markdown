@@ -1,4 +1,3 @@
-25.06.2022
 ---
 layout: post
 title:  Isekai Ojisan
