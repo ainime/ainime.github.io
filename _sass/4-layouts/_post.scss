@@ -134,24 +134,24 @@
   padding-bottom: 20px;
 }
 
-// Multi tabs
-#multi-tabs {
+//Table Box
+#utb {
 position: relative;
 }
 
-#list-tabs {
+#udltb {
 list-style:none;
 height: 30px;
 margin: 0 !important;
 padding: 0 !important
 }
-#list-tabs li {
+#udltb li {
 list-style:none;
 margin: 0 0 0 0px;
 list-style:none;
 float: left;
 }
-#list-tabs li a{
+#udltb li a{
 display: block;
 padding: 0 6px;
 line-height: 30px;
@@ -159,11 +159,11 @@ text-decoration: none;
 color: #fff;
 background-color: #263238
 }
-#list-tabs li.active a{
+#udltb li.active a{
 background-color: #2196F3
 }
 
-#tabs-box > div {
+#udlctn > div {
 padding: 10px 0px;
 }
 
