@@ -48,7 +48,11 @@ layout: default
 <div class="article-content">
 <div class="article-info">
 <div class="article-date">
-<span class="date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+{% if post.tags.size >= 1 %}
+{% for tag in post.categories %}
+<a href="{{ site.baseurl }}/tags#{{tag}}" class="tag">{{ tag }}</a>
+{% endfor %}
+{% else %} {% endif %}
 </div>
 <div class="article-tag">
 {% if post.tags.size >= 1 %}
