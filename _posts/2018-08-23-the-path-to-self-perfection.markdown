@@ -9,15 +9,6 @@ tags: [Comedy, Fantasy ]
 ---
 
 <div id="utb">
-<b>Choose Server:</b>
-<ul id="udltb">
-<li><a href="#tab1">#01</a></li>
-<li><a href="#tab2">#02</a></li>
-<li><a href="#tab3">#03</a></li>
-<li><a href="#tab4">#04</a></li>
-<li><a href="#tab5">#05</a></li>
-<li><a href="#tab6">#06</a></li>
-</ul>
 <div id="udlctn">
 <div id="tab1">
 <!--- #01 Start --->
@@ -86,4 +77,13 @@ tags: [Comedy, Fantasy ]
 <!--- #06 End --->
 </div>
 </div>
+<b>Choose Server:</b>
+<ul id="udltb">
+<li><a href="#tab1">#01</a></li>
+<li><a href="#tab2">#02</a></li>
+<li><a href="#tab3">#03</a></li>
+<li><a href="#tab4">#04</a></li>
+<li><a href="#tab5">#05</a></li>
+<li><a href="#tab6">#06</a></li>
+</ul>
 </div>
