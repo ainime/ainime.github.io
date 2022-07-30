@@ -144,6 +144,7 @@ list-style:none;
 height: 30px;
 margin: 0 !important;
 padding: 0 !important;
+display: block;
 overflow: hidden;
 position: relative;
 }
@@ -171,6 +172,16 @@ padding: 10px 0px;
 
 #tab2, #tab3{
 display:none;
+}
+
+@media screen and (max-width:480px) {
+#udltb li a {
+width: 10.43%}
+}
+@media screen and (max-width:320px) {
+#udltb li a {
+width: 10.24%
+}
 }
 
 .post-share {
