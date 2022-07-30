@@ -1,7 +1,8 @@
+25.06.2022
 ---
 layout: post
 title:  Isekai Ojisan
-date:   2018-08-23 16:03:30 +0300
+date:   2022-06-25
 image:  kv.webp
 episode:   [ Episode 1 ]
 subtitle: [ Subtitle Indonesia ]
