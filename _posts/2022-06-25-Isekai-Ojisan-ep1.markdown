@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Isekai Ojisan
+title:  Isekai Ojisannn
 date:   2022-06-25
 image:  kv.webp
 episode:   [ Episode 1 ]
