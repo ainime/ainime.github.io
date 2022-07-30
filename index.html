@@ -17,7 +17,7 @@ layout: default
 {% endfor %}
 {% else %} {% endif %}
 </div>
-<h2 class="article-title" style="text-shadow: 0 0 1px #000, 0 0 2px #000, 0 0 3px #000, 0 0 4px #000, 0 0 5px #000;"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
+<h2 class="article-title" style="color: #fff; text-shadow: 0 0 1px #000, 0 0 2px #000, 0 0 3px #000, 0 0 4px #000, 0 0 5px #000;"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
 <p class="article-excerpt">{% if post.tags.size >= 1 %}
 {% for tag in post.subtitle %}
 <a href="{{ post.url | prepend: site.baseurl }}" class="tag" style="color: #fff; text-shadow: 0 0 1px #000, 0 0 2px #000, 0 0 3px #000, 0 0 4px #000, 0 0 5px #000;">{{ tag }}</a>
