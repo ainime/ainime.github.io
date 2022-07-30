@@ -112,6 +112,7 @@ tags: [Comedy, Fantasy ]
 </div>
 <b>Choose Server:</b>
 <div class="table-container">
+<table>
 <ul id="udltb">
 <li><a href="#tab1">#01</a></li>
 <li><a href="#tab2">#02</a></li>
@@ -123,5 +124,6 @@ tags: [Comedy, Fantasy ]
 <li><a href="#tab8">#08</a></li>
 <li><a href="#tab9">#09</a></li>
 </ul>
+</table>
 </div>
 </div>
