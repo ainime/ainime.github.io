@@ -10,22 +10,22 @@ layout: default
 <article class="article-first">
 <div class="article-image-first" style="background-image: url({{"/img/" | prepend: site.baseurl | append : post.image}})">
 <div class="article-content-first">
-<h3 class="article-title">
+<p style="margin-bottom: 20px; font-size: 20px; line-height: 20px; font-weight: normal;">
 {% if post.tags.size >= 1 %}
 {% for tag in post.episode %}
 <a href="{{ post.url | prepend: site.baseurl }}" class="tag" style="color: #fff; text-shadow: 0 0 1px #000, 0 0 2px #000, 0 0 3px #000, 0 0 4px #000, 0 0 5px #000;">{{ tag }}</a>
 {% endfor %}
 {% else %} {% endif %}
-</h3>
+</p>
 <h2 class="article-title" style="text-shadow: 0 0 1px #000, 0 0 2px #000, 0 0 3px #000, 0 0 4px #000, 0 0 5px #000;"><a href="{{ post.url | prepend: site.baseurl }}" style="color: #fff;">{{post.title}}</a></h2>
-<h3 class="article-title">
+<p style="margin-bottom: 20px; font-size: 20px; line-height: 20px; font-weight: normal;">
 {% if post.tags.size >= 1 %}
 {% for tag in post.subtitle %}
 <a href="{{ post.url | prepend: site.baseurl }}" class="tag" style="color: #fff; text-shadow: 0 0 1px #000, 0 0 2px #000, 0 0 3px #000, 0 0 4px #000, 0 0 5px #000;">{{ tag }}</a>
 {% endfor %}
 {% else %} {% endif %}
-</h3>
-<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more" style="background-color: #101010; text-shadow: 0 0 1px #000, 0 0 2px #000, 0 0 3px #000, 0 0 4px #000, 0 0 5px #000;">Tonton Sekarang</a>
+</p>
+<a href="{{ post.url | prepend: site.baseurl }}" class="button read-more" style="background-color: #101010;">Tonton Sekarang</a>
 </div>
 </div>
 </article> <!-- /.article-first -->
