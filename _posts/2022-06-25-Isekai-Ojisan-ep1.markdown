@@ -5,9 +5,10 @@ date:   2022-06-25
 image:  kv.webp
 episode:   [ Episode 1 ]
 subtitle: [ Subtitle Indonesia ]
-tags: [Comedy, Fantasy ]
+tags: [ Comedy, Fantasy ]
 ---
 
+<div class="table-container">
 <div id="utb">
 <div id="udlctn">
 <div id="tab1">
@@ -111,8 +112,6 @@ tags: [Comedy, Fantasy ]
 </div>
 </div>
 <b>Choose Server:</b>
-<div class="table-container">
-<table>
 <ul id="udltb">
 <li><a href="#tab1">#01</a></li>
 <li><a href="#tab2">#02</a></li>
@@ -124,6 +123,5 @@ tags: [Comedy, Fantasy ]
 <li><a href="#tab8">#08</a></li>
 <li><a href="#tab9">#09</a></li>
 </ul>
-</table>
 </div>
 </div>
