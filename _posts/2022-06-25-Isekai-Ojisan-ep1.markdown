@@ -3,7 +3,7 @@ layout: post
 title:  Isekai Ojisan
 date:   2022-06-25
 image:  kv.webp
-episode:   [ Episode 1 ]
+episode:   [ Episode 2 ]
 subtitle: [ Subtitle Indonesia ]
 tags: [ Comedy, Fantasy ]
 ---
