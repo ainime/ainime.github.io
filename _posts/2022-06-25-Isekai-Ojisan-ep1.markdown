@@ -3,6 +3,7 @@ layout: post
 title:  Isekai Ojisan
 date:   2022-06-25
 image:  kv.webp
+description: I`m Finally Back from the Fantasy World of Granbahamal After 17 Long Years!
 episode:   [ Episode 1 ]
 subtitle: [ Subtitle Indonesia ]
 tags: [ Comedy, Fantasy ]
