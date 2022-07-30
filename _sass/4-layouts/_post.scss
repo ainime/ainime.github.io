@@ -137,13 +137,13 @@
 //Table Box
 #utb {
 position: relative;
-overflow-x: auto;
 }
 
 #udltb {
 list-style:none;
 height: 30px;
 margin: 0 !important;
+overflow-x: auto;
 padding: 0 !important
 }
 #udltb li {
