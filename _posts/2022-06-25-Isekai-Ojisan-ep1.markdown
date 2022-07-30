@@ -4,11 +4,10 @@ title:  Isekai Ojisan
 date:   2022-06-25
 image:  kv.webp
 episode:   [ Episode 1 ]
-subtitle: [ Subtitle Indonesia ]
+subtitle: [ Sub Indonesia ]
 tags: [ Comedy, Fantasy ]
 ---
 
-<div class="table-container">
 <div id="utb">
 <div id="udlctn">
 <div id="tab1">
@@ -123,5 +122,4 @@ tags: [ Comedy, Fantasy ]
 <li><a href="#tab8">#08</a></li>
 <li><a href="#tab9">#09</a></li>
 </ul>
-</div>
 </div>
