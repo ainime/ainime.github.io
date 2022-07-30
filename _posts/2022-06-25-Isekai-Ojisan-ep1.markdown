@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Isekai Ojisannn
+title:  Isekai Ojisan
 date:   2022-06-25
 image:  kv.webp
 episode:   [ Episode 1 ]
@@ -110,7 +110,7 @@ tags: [ Comedy, Fantasy ]
 <!--- #09 End --->
 </div>
 </div>
-<b>Choose Server:</b>
+<b>Server:</b>
 <ul id="udltb">
 <li><a href="#tab1">#01</a></li>
 <li><a href="#tab2">#02</a></li>
@@ -123,3 +123,5 @@ tags: [ Comedy, Fantasy ]
 <li><a href="#tab9">#09</a></li>
 </ul>
 </div>
+
+<div class="button">Download</div>
