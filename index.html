@@ -13,11 +13,11 @@ layout: default
 <div class="article-tag">
 {% if post.tags.size >= 1 %}
 {% for tag in post.episode %}
-<a href="{{ post.url | prepend: site.baseurl }}" class="tag" style="text-shadow: 1px 1px 1px black;">{{ tag }}</a>
+<a href="{{ post.url | prepend: site.baseurl }}" class="tag" style="border: 1px;">{{ tag }}</a>
 {% endfor %}
 {% else %} {% endif %}
 </div>
-<h2 class="article-title" style="text-shadow: 2px 2px 2px black;"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
+<h2 class="article-title" style="border: 2px;"><a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
 <p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
 <a href="{{ post.url | prepend: site.baseurl }}" class="button read-more">Tonton Sekarang</a>
 </div>
