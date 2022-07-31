@@ -3,7 +3,7 @@ layout: post
 title:  Isekai Ojisan
 date:   2022-06-25
 image:  kv.webp
-description: "Guardian Heroes Shoulda Been Number One!"
+description: Pahlawan Penjaga Seharusnya Menjadi Nomor Satu!
 episode:   [ Episode 2 ]
 subtitle: [ Subtitle Indonesia ]
 tags: [ Comedy, Fantasy ]
