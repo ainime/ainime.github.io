@@ -9,16 +9,14 @@ subtitle: [ Subtitle Indonesia ]
 tags: [ Comedy, Fantasy ]
 ---
 
-<div class="footer-bottom">
-<div class="copyright">
-<a href="#">Lihat semua episode</a>
-</div>
-<div class="footer-social">
-<ul class="list-reset">
-<li><a href="#">Prep</a></li>
-<li><a href="#">Next</a></li>
-</ul>
-</div>
+<div class="post-navigation">
+<a href="#" class="prev">
+<div class="post-nav-arrow"><i class="ion ion-ios-arrow-round-back"></i> Episode Sebelumnya</div>
+</a>
+	 
+<a href="#" class="next">
+<div class="post-nav-arrow">Episode Selanjutnya <i class="ion ion-ios-arrow-round-forward"></i></div>
+</a>
 </div>
 
 <div id="utb">
