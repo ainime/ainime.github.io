@@ -10,6 +10,9 @@ tags: [ Comedy, Fantasy ]
 ---
 
 <div class="post-navigation">
+<a class="prev">
+<div class="post-nav-arrow"></div>
+</a>
 <a href="#" class="next">
 <div class="post-nav-arrow">Episode Selanjutnya <i class="ion ion-ios-arrow-round-forward"></i></div>
 </a>
