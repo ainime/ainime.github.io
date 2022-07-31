@@ -10,13 +10,17 @@ tags: [ Comedy, Fantasy ]
 ---
 
 <div class="post-navigation">
-<a class="prev">
-<div class="post-nav-arrow"></div>
+<a href="#" class="prev">
+<div class="post-nav-arrow"><i class="ion ion-ios-arrow-round-back"></i> Episode Sebelumnya</div>
+</a>
+<a href="#">
+<div class="post-nav-arrow"><i class="ion ion-ios-arrow-round-back"></i> Semua Episode</div>
 </a>
 <a href="#" class="next">
 <div class="post-nav-arrow">Episode Selanjutnya <i class="ion ion-ios-arrow-round-forward"></i></div>
 </a>
 </div>
+
 
 <div id="utb">
 <div id="udlctn">
