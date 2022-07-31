@@ -9,12 +9,11 @@ subtitle: [ Subtitle Indonesia ]
 tags: [ Comedy, Fantasy ]
 ---
 
-<div class="post-navigation">
-<a href="#" class="next" style="position:right;">
+<div class="post-navigation" style="position:right;">
+<a href="#" class="next">
 <div class="post-nav-arrow">Episode Selanjutnya <i class="ion ion-ios-arrow-round-forward"></i></div>
 </a>
 </div>
-
 
 <div id="utb">
 <div id="udlctn">
