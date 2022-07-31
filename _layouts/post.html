@@ -87,12 +87,12 @@ title="Share on Facebook" rel="nofollow">
 						<div class="post-nav-arrow"><i class="ion ion-ios-arrow-round-back"></i> Previous Article</div>
 						<h2 class="post-nav-title">{{page.previous.title}}</h2>
 					</a>
-					{% endif %} <div style="justify-content:flex-end;"> {% if page.next.url %}
+					{% endif %} {% if page.next.url %}
 					<a href="{{ site.baseurl }}{{page.next.url}}" class="next">
 						<div class="post-nav-arrow">Next Article <i class="ion ion-ios-arrow-round-forward"></i></div>
 						<h2 class="post-nav-title">{{page.next.title}}</h2>
 					</a>
-					{% endif %}</div>
+					{% endif %}
 				</div>
 
 			</div>
