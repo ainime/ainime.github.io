@@ -25,6 +25,7 @@ layout: default
 {% endfor %}
 {% else %} {% endif %}
 </h2>
+<p class="article-excerpt">{% if post.description %}{{ post.description | strip_html | truncate: 163 }}{% else %}{{ post.content | strip_html | truncate: 163 }}{% endif %}</p>
 <a href="{{ post.url | prepend: site.baseurl }}" class="button read-more" style="border: none; color: #fff; background-color: #101010; opacity: 0.5;">Tonton Sekarang</a>
 </div>
 </div>
